@@ -1,4 +1,4 @@
-# DevCat-chatBot
+# HackerCat-chatBot
 
 Telegram chat bot with Codegym exercises.
 
